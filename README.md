@@ -52,10 +52,7 @@ I built <a href="https://play.google.com/store/apps/details?id=com.mrvivacious.a
 For you, this can help provide insight into connecting AWS SNS with AWS Lambda and the Alexa Voice Service. 
 </p>
 
-### How?
-<p>
-{nextpageURL}
-</p>
+### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page0.md">How</a>?
 
 
 
