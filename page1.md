@@ -43,3 +43,5 @@ right side of the bar to continue adding individual values.</p>
 <p>Finally, using the menu on the left hand side, navigate back to your custom Intent. Below your utterances, there will
 be a table of "Intent Slots". You should see your Slot in this table. Now you must connect the Slot Type to the utterances
 by using the dropdown menu under "SLOT TYPE" and selecting your custom Slot name that shows up.</p>
+
+### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page2.md">AWS Lambda</a>
