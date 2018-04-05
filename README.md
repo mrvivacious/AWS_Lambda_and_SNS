@@ -1,17 +1,24 @@
 ## To do:
 <br>
-<ol>
-<li>Project overview</li>
-<li>Set up the accounts</li>
-<li>Set up VUI in developer console</li>
-<li>Initialize the lambda</li>
-<li>Connect the lambda with the corresponding SNS</li>
-<li>Write the lambda code</li>
-<li>Add email support in place of SMS</li>
-<li>Congratulations. The end.</li>
-</ol>
 
-<hr>Page 0 begins below<hr><hr>
+(README)Project overview
+<br>
+(page0)Set up the accounts
+<br>
+(page1)Set up VUI in developer console
+<br>
+Initialize the lambda
+<br>
+Connect the lambda with the corresponding SNS
+<br>
+Write the lambda code
+<br>
+Add email support in place of SMS
+<br>
+Congratulations. The end.
+<br>
+
+<hr><hr>
 
 # An Alexa skill that joins AWS Lambda and AWS SNS to message your friends
 <p>Welcome! This tutorial was designed for the attendees of the University of Illinois' <a href="https://sail.cs.illinois.edu/">CS@ILLINOIS SAIL</a>, an event for high school students to explore various student-led classes at the University.
