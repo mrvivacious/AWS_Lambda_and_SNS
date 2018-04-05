@@ -41,5 +41,5 @@ To activate the Lambda function via Alexa, we have to connect the Alexa Skills K
   Nice work! You just made a Lambda function that can be triggered by any Alexa-enabled device.
 </p>
 
-### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page1.md">Let's connect this Lambda to AWS SNS</a>
+### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page3.md">Let's connect this Lambda to AWS SNS</a>
 
