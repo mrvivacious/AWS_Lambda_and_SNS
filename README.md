@@ -13,7 +13,7 @@
 
 <hr>Page 0 begins below<hr><hr>
 
-# An Alexa skill that uses AWS Lambda to message your friends
+# An Alexa skill that joins AWS Lambda and AWS SNS to message your friends
 <p>Welcome! This tutorial was designed for the attendees of the University of Illinois' <a href="https://sail.cs.illinois.edu/">CS@ILLINOIS SAIL</a>, an event for high school students to explore various student-led classes at the University.
   <br>However, this tutorial is meant for anyone to use!
 </p>
@@ -52,10 +52,7 @@ I built <a href="https://play.google.com/store/apps/details?id=com.mrvivacious.a
 For you, this can help provide insight into connecting AWS SNS with AWS Lambda and the Alexa Voice Service. 
 </p>
 
-### How?
-<p>
-{nextpageURL}
-</p>
+### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page0.md">How</a>?
 
 
 
