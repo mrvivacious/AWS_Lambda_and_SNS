@@ -31,7 +31,8 @@ You - the person that activates the skill
   We will be building an Alexa skill that sends your personalized messages to recipients of your choice via SMS/email.
   <br>This walkthrough uses the Alexa developer dashboard for the voice user interface design and AWS Lambda and AWS SNS to handle the recipient selection and message delivery function.
   <br>
-  ![Homemade image of this skill's architecture](https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/Images/architecture.png)
+ ``![image text](https://cloud.githubusercontent.com/assets/711743/25648417/57cd2c0c-2fe9-11e7-8753-b60ea2656faf.png)``
+  
   >I named my skill, "Share Love," hence the "Share Love" in the picture.
 </p>
 
