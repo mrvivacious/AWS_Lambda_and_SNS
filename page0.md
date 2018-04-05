@@ -18,7 +18,7 @@ Press "Create your Amazon Developer account" at the bottom and you will be sent 
 <p>
 </p>
 
-### nything else?
+### Anything else?
 
 <p>
 </p>
