@@ -17,7 +17,9 @@ Press "Create your Amazon Developer account" at the bottom and you will be sent 
 ### aws.amazon.com
 
 <p>
-Great work! AWS -- Amazon Web Services -- offers many software solutions for companies and developers of all sizes and purposes. You can think of AWS as the "server-side/backend" of this project and most other projects that utilize AWS functions. Please go to <a href="aws.amazon.com">aws.amazon.com</a> and click "Create a new account" near the top of the site (in front of the purple and orange backdrop). The free trial enables us to one million SNS notifications per month, one thousand emails per month, and one hundred SMS messages. 
+Great work! AWS -- Amazon Web Services -- offers many software solutions for companies and developers of all sizes and purposes. You can think of AWS as the "server-side/backend" of this project and most other projects that utilize AWS functions.
+</p> 
+ <p>Please go to <a href="aws.amazon.com">aws.amazon.com</a> and click "Create a new account" near the top of the site (in front of the purple and orange backdrop). The free trial enables us to one million SNS notifications per month, one thousand emails per month, and one hundred SMS messages. 
   <br> If you have over a thousand friends you want to message, you will be glad to hear that Github offers free AWS credits to students 😉.
 </p>
 
