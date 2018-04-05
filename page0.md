@@ -1,5 +1,6 @@
 # Account set up
-<p>We will need to make accounts on <a href="developer.amazon.com">developer.amazon.com</a> and <a href="aws.amazon.com">aws.amazon.com</a>.
+<p>We will need to make accounts on <a href="developer.amazon.com">developer.amazon.com</a> and 
+  <a href="aws.amazon.com">aws.amazon.com</a>.
 </p>
 
 ### developer.amazon.com
@@ -16,13 +17,16 @@ Press "Create your Amazon Developer account" at the bottom and you will be sent 
 ### aws.amazon.com
 
 <p>
+Great work! Now, please go to <a href="aws.amazon.com">aws.amazon.com</a> and click "Create a new account" near the top of the site (in front of the purple and orange backdrop). The free trial enables us to one million SNS notifications per month, one thousand emails per month, and one hundred SMS messages. 
+  <br> If you have over a thousand friends you want to message, you will be glad to hear that Github offers free AWS credits to students 😉.
 </p>
 
-### Anything else?
+<br>
 
 <p>
+  Once you're finished setting up your accounts, we can begin building our skill 😈!
 </p>
 
-### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page1.md">NEXT PAGE</a>
+### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page1.md">Let's go!</a>
 
 
