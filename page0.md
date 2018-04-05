@@ -1,4 +1,4 @@
-# Account set up
+# Account setup
 <p>We will need to make accounts on <a href="developer.amazon.com">developer.amazon.com</a> and 
   <a href="aws.amazon.com">aws.amazon.com</a>.
 </p>
