@@ -1,19 +1,8 @@
 ## To do:
 <br>
 
-(README)Project overview
-<br>
-(page0)Set up the accounts
-<br>
-(page1)Set up VUI in developer console
-<br>
-Initialize the lambda
-<br>
-Connect the lambda with the corresponding SNS
-<br>
-Write the lambda code
-<br>
-Add email support in place of SMS
+
+(page4) Write the lambda code + Add email support in place of SMS
 <br>
 Congratulations. The end.
 <br>
