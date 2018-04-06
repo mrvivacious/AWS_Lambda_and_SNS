@@ -4,9 +4,13 @@
  * @author Vivek Bhookya
  **/
 
+// We now have access to the Alexa API
 'use strict';
 const Alexa = require('alexa-sdk');
 
+// Handlers are the intents we make active when this Lambda is called.
+// Handlers can be thought of as subroutines specific to this program. 
+// We inform the Alexa cloud of our handlers and their functions with the following code 
 exports.handler = function (event, context, callback) {
     const alexa = Alexa.handler(event, context, callback);
     alexa.APP_ID = APP_ID;
@@ -14,6 +18,7 @@ exports.handler = function (event, context, callback) {
     alexa.execute();
 };
 
+// The details of the skill(s) associated with this Lambda
 // TODO: Fill in your skill name. Do you want to change the message intro (INITIAL_MESSAGE) ?
 const APP_ID = undefined;
 let SKILL_NAME = '';
@@ -29,7 +34,7 @@ let STOP_MESSAGE = 'Goodbye!';
 let myNumber = '+1XXXYYYZZZZ';
 
 // Messages that are delivered
-// TODO: Add your own! Here are some to serve as inspiration
+// TODO: Add your own! Here are some to serve as an inspiration
 const data = [
     "You are a champion.",
     "You are awesome.",
@@ -41,13 +46,14 @@ const data = [
     "I am glad I know you."
 ];
 
+// HANDLERS
 // TODO: What is the name of your intent?
 const handlers = {
     'LaunchRequest': function () {
         this.emit('NAMEOFYOURINTENT');
     },
     'NAMEOFYOURINTENT': function () {
-        // Currently only texts "You are a champion"
+        // Currently only texts "You are a champion."
         // TODO: How can we choose a random message? Hint: Math.random()
         let messageBody = INITIAL_MESSAGE + data[0];
 
@@ -83,6 +89,11 @@ const handlers = {
                        Message: messageBody };
 
         // Send the message!
+        // Currently, this will send out:
+        // + "Hi! Here's a message for you:"
+        // + "You are a champion."
+        // Line 1 will change if you edit the INITIAL_MESSAGE
+        // The message itself (line 2) can be rotated around. Did you solve that TODO?
         deliverMessage(params, myResult=>{
         this.response.speak('Message sent to: ' + recipient + '.');
         this.emit(':responseReady');
