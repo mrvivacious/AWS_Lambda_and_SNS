@@ -3,7 +3,7 @@
 
 <p>Now go back to <a href="http://developer.amazon.com">developer.amazon.com</a></p>
 
-Once you've signed in, click on "Developer Console" on the top right of the blue bar. Search for "Alexa Skills Kit" on the top gray bar. 
+Once you've signed in, click on "Developer Console" on the top right of the blue bar. Search for "Alexa Skills Kit" on the top gray menu. 
 
 ### The Developer Console 
 <p>You will be using the developer console to set up the Voice User Interface (VUI)</p>
