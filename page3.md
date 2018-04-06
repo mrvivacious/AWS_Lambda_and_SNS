@@ -1,4 +1,4 @@
-# Lambda and SNS
+# Authorize SNS with IAM
 <p>
 Let's go back to the <a href="http://aws.amazon.com">homepage</a>
 </p>
