@@ -41,5 +41,20 @@ To activate the Lambda function via Alexa, we have to connect the Alexa Skills K
   Nice work! You just made a Lambda function that can be triggered by any Alexa-enabled device.
 </p>
 
+### Connect the Lambda to the skill itself
+<p>
+In the top right corner of your Lambda is a value that reads as <b>ARN - arn:aws:lambda:us-east-1:XXXXXX...</b>
+<br>Please copy this value from "arn:aws..." through the end after the name of the Lambda.
+</p>
+
+<p>
+ Head back to the Alexa skill builder and go to this skill's interface. Select "Endpoint" in the left sidebar.
+ <br>Select AWS Lambda ARN and paste the value you just copied into "Default Region."
+ </p>
+ 
+<p>
+We just connected this skill's voice interface (frontend) to the logic processing code (backend) with the ARN value. The reason this feature exists is to permit developers to create their own endpoints to process the Alexa requests in a manner desirable to them. 
+</p>
+
 ### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page3.md">Let's connect this Lambda to AWS SNS</a>
 
