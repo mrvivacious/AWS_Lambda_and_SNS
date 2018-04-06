@@ -19,7 +19,7 @@ You are now in the IAM console. IAM can be thought of as the bookkeeper of which
 <li>Under "IAM Resources," select Roles. You should be on a screen that displays your lamba_basic_execution role. Please click on this role.</li>
 <li>Click on the blue "Attach policy" button. Search for SNS.</li>
 <li>Select the checkmark box for <b>AmazonSNSFullAccess</b> and click "Attach policy" at the bottom of your screen.</li>
-<li>Awesome, we've just told IAM to authorize our Lambda role to interface with SNS! We can now utilize SNS to deliver SMS or email notifications.</li>
+<li>Awesome, we've just told IAM to authorize our Lambda role to interface with SNS! We can now utilize SNS to deliver SMS messages.</li>
 </ol>
 
 ### C o d e

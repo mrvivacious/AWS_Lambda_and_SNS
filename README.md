@@ -1,14 +1,3 @@
-## To do:
-<br>
-
-
-(page4) Write the lambda code + Add email support in place of SMS
-<br>
-Congratulations. The end.
-<br>
-
-<hr><hr>
-
 # An Alexa skill that joins AWS Lambda and AWS SNS to message your friends
 <p>Welcome! This tutorial was designed for the attendees of the University of Illinois' <a href="https://sail.cs.illinois.edu/">CS@ILLINOIS SAIL</a>, an event for high school students to explore various student-led classes at the University.
   <br>However, this tutorial is meant for anyone to use!
@@ -28,9 +17,9 @@ You - the person that activates the skill
   <br>This walkthrough uses the Alexa developer dashboard for the voice user interface design and AWS Lambda and AWS SNS to handle the recipient selection and message delivery function.
   <br>
   </p>
-  
+
  ![Architecture diagram for this skill](/Images/architecture.png)
-  
+
   >I named my skill, "Share Love," hence the "Share Love" in the picture.
 
 
@@ -50,10 +39,7 @@ Anytime you active the skill [while connected to the internet and the correspond
 
 <p>
 I built <a href="https://play.google.com/store/apps/details?id=com.mrvivacious.android.fortuneballll">an app that generates a positive/good vibes message that I can share</a> but I didn't like how long the process took. I recently started building with Alexa and I thought it would be a much faster solution to my problem while being an opportunity to increase my Alexa skillset.
-For you, this can help provide insight into connecting AWS SNS with AWS Lambda and the Alexa Voice Service. 
+For you, this can help provide insight into connecting AWS SNS with AWS Lambda and the Alexa Voice Service.
 </p>
 
 ### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page0.md">How</a>?
-
-
-
