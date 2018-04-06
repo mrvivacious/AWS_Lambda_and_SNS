@@ -60,6 +60,7 @@ const handlers = {
         // Handle the recipient of the message
         // This line extracts the value of the recipient we specified and stores it
         /// as a string. We use the string to match our list of numbers against below
+        // TODO: What did you name your slot? Fill it in below!
         let recipient = this.event.request.intent.slots.SLOTNAME.value;
         let phoneNumber = '';   // Declaration, to be initialized after determining our recipient
 
