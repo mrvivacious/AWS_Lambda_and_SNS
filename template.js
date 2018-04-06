@@ -1,5 +1,5 @@
 /**
- * Share Love lambda template
+ * Share Love Lambda template
  * Written for UIUC CS@ILLINOIS SAIL 2018
  * @author Vivek Bhookya
  **/
