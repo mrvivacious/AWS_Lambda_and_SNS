@@ -53,8 +53,8 @@ If there are some odd problems you are running into, check the Skill I/O portal,
 
 <p>
 In slots.recipient, is "value" what you expected it to be? If not, try pronouncing the name you are saying differently -- I sometimes run into issues where
-I speak too fast, too quiet, or I enunciate sounds difficult for Alexa to pick up. To test your pronounciation, simply speak into the Alexa simulator. It will
-output exactly what Alexa thinks you said, allowing you to experiment with different pronounciations to fit your needs.
+I speak too fast, too quiet, or I enunciate sounds difficult for Alexa to pick up. To test your pronunciation, simply speak into the Alexa simulator. It will
+output exactly what Alexa thinks you said, allowing you to experiment with different pronunciations to fit your needs.
 <br>Also, is the recipient you specified included in the voice model for this skill? Did you include this name as a recognizable slot value?
 </p>
 
@@ -62,7 +62,7 @@ output exactly what Alexa thinks you said, allowing you to experiment with diffe
 If you are having other persistent issues, try Google. Also, the <a href="https://github.com/alexa/alexa-cookbook/tree/master/aws/Amazon-SNS">Alexa Cookbook</a> is a great resource for template code.
 </p>
 
-### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page5.md">I just successfully used Alexa to send myself a text!</a>
+### <a href="https://www.amazon.jobs/en/teams/university-tech-internship?offset=0&result_limit=10&sort=relevant&category=software-development&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&">I just successfully used Alexa to send myself a text!</a>
 
 <p>
 * = Alexa sends a request formatted in JSON to Lambda. The line,
@@ -70,3 +70,5 @@ If you are having other persistent issues, try Google. Also, the <a href="https:
 <br>Tells Lambda to get the JSON request associated with this current request (this.event.request), look for the intent requested (.intent),
  search the slots this intent uses (.slots), and finally grabs the values uttered by the user (.SLOTNAME.value). The variable recipient stores the value we found.
  </p>
+
+### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page5.md">Cloudwatch</a>
