@@ -15,6 +15,8 @@ Once you've signed in, click on "Developer Console" on the top right of the blue
 
 <li>Of the four options, choose "Custom", then press the blue "Create Skill button at the top right"</li>
 
+<li>Choose "Invocation name" and type the "wake up" name for the skill. For example, "share love."</li>
+
 <li>From the menu on the left side of your screen, press "Add" next to the "Intents" option</li>
  
 <li>Enter a name for your intent in camel case followed by the word "Intent" i.e. ShareLoveIntent</li>
