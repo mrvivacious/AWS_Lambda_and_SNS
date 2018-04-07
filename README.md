@@ -13,7 +13,7 @@ You - the person that activates the skill
 ### What?
 
 <p>
-  We will be building an Alexa skill that sends your personalized messages to recipients of your choice via SMS/email.
+  We will be building an Alexa skill that sends your personalized messages to recipients of your choice via SMS.
   <br>This walkthrough uses the Alexa developer dashboard for the voice user interface design and AWS Lambda and AWS SNS to handle the recipient selection and message delivery function.
   <br>
   </p>
@@ -32,7 +32,7 @@ AWS Lambda, AWS SNS, the Alexa Voice Service.
 ### When?
 
 <p>
-Anytime you active the skill [while connected to the internet and the corresponding AWS server is running].
+Anytime you activate the skill [while connected to the internet and the corresponding AWS server is running].
 </p>
 
 ### Why?
