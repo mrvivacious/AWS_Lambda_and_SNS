@@ -43,3 +43,7 @@ For you, this can help provide insight into connecting AWS SNS with AWS Lambda a
 </p>
 
 ### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page0.md">How</a>?
+
+<p>
+* Sources for the images used can be found in <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/SAIL2018.pdf">the lecture slides</a>.
+</p>
