@@ -13,7 +13,7 @@ You - the person that activates the skill
 ### What?
 
 <p>
-  We will be building an Alexa skill that sends your personalized messages to recipients of your choice via SMS/email.
+  We will be building an Alexa skill that sends your personalized messages to recipients of your choice via SMS.
   <br>This walkthrough uses the Alexa developer dashboard for the voice user interface design and AWS Lambda and AWS SNS to handle the recipient selection and message delivery function.
   <br>
   </p>
