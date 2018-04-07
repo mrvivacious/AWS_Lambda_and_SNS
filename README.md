@@ -32,7 +32,7 @@ AWS Lambda, AWS SNS, the Alexa Voice Service.
 ### When?
 
 <p>
-Anytime you active the skill [while connected to the internet and the corresponding AWS server is running].
+Anytime you activate the skill [while connected to the internet and the corresponding AWS server is running].
 </p>
 
 ### Why?
