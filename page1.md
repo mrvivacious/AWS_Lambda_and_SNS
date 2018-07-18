@@ -39,7 +39,9 @@ right side of the bar to continue adding individual values.</li>
 be a table of "Intent Slots". You should see your Slot in this table. Now you must connect the Slot Type to the utterances
 by using the dropdown menu under "SLOT TYPE" and selecting your custom Slot name that shows up.</li>
 
-<li>Congratulations, the VUI is now set up!</li>
+<li>When you are satisfied, click "Save model" and then click "Build model" to finalize your VUI.</li>
+
+<li>Once the model has been built: Congratulations, the VUI is now set up!</li>
 </ol>
 
 ### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page2.md">AWS Lambda</a>
