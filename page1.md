@@ -44,4 +44,4 @@ by using the dropdown menu under "SLOT TYPE" and selecting your custom Slot name
 <li>Once the model has been built: Congratulations, the VUI is now set up!</li>
 </ol>
 
-### <a href="https://github.com/mrvivacious/AWS_Lambda_and_SNS/blob/master/page2.md">AWS Lambda</a>
+### <a href="https://github.com/liamlutton/AWS_Lambda_and_SNS/blob/master/page2.md">AWS Lambda</a>
